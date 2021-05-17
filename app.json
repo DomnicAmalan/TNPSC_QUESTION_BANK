@@ -1,0 +1,12 @@
+{
+  "name": "TNPSC_QUESTION_BANK",
+  "displayName": "TNPSC_QUESTION_BANK",
+  "expo": {
+    "name": "TNPSC_QUESTION_BANK",
+    "slug": "TNPSC_QUESTION_BANK",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
